@@ -30,8 +30,7 @@ The Solar Energy Monitoring System is designed to monitor the electrical output 
 The solar panel generates electrical power. The INA219 sensor measures voltage and current, and the Arduino calculates power using the measured values. The readings can be displayed on an OLED screen or Serial Monitor. LEDs and a buzzer provide status alerts according to the program.
 
 5. Circuit Diagram
-
-The circuit diagram will be added after the wiring is verified.
+The circuit diagram is available in the `diagrams` folder. The wiring will be verified against the actual hardware connections before final testing.
 
 6. Block Diagram
 
