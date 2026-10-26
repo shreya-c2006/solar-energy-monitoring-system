@@ -41,7 +41,7 @@ Arduino Uno → LEDs and Buzzer
 
 7. Source Code
 
-The Arduino source code will be uploaded after it is prepared and tested.
+The Arduino source code is available in the `src/solar_monitor.ino` file. It reads voltage, current, and power measurements from the INA219 sensor and displays them on the Serial Monitor.
 
 8. Testing and Results
 
